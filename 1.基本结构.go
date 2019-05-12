@@ -19,7 +19,7 @@ type gopher struct{}
 //接口的声明
 type golang interface{}
 
-//由 main 函数作为程序的入口点启动
+//使用 main 函数作为程序的入口点启动
 func main() {
 	std.Println("Hellow World!")
 }
