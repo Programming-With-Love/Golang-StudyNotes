@@ -1,6 +1,6 @@
 <div align=center>
     <h1>Golang-StudyNotes</h1>
-    <p>跟随 <a hrrf="https://github.com/Unknwon">@无闻</a> 视频学习 Golang 编程基础的学习笔记 </p>
+    <p>跟随 <a href="https://github.com/Unknwon">@无闻</a> 视频学习 Golang 编程基础的学习笔记 </p>
     <img src ="https://img.shields.io/badge/你敲代码好像蔡徐坤-1.1.0-brightgreen.svg"/>
 </div>
 
